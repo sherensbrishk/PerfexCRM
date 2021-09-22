@@ -3630,12 +3630,12 @@ $lang['tags_update_replace_warning'] = 'Some tags are not updated because the na
 $lang['attach_statement']            = 'Attach Customer Statement';
 
 # Version 2.4.0
-$lang['delete_credit_card']               = 'Delete Card';
-$lang['delete_credit_card_info']          = 'You cannot delete the credit card as you have active subscriptions.';
-$lang['credit_card_successfully_deleted'] = 'Credit card successfully deleted.';
-$lang['subscription_incomplete']          = 'Incomplete';
+$lang['delete_credit_card']               = 'Excluir Cartão de Crédito';
+$lang['delete_credit_card_info']          = 'Você não pode excluir o cartão de crédito pois possui uma assinatura ativa.';
+$lang['credit_card_successfully_deleted'] = 'Cartão de Crédito removido com sucesso';
+$lang['subscription_incomplete']          = 'Incompleto';
 $lang['subscription_incomplete_expired']  = 'Incomplete Expired';
-$lang['credit_card_short']                = 'Card';
+$lang['credit_card_short']                = 'Cartão';
 $lang['webhook_created']                  = 'Webhook created successfully.';
 $lang['subscriptions_terms_info']         = 'Enter customer terms & conditions to be displayed to the customer before subscribe to the subscription.';
 $lang['subscription_complete_payment']    = 'Complete Payment';
@@ -3678,18 +3678,18 @@ $lang['gantt_view_year'] = 'Years View';
 
 # Version 2.7.0
 $lang['hour_of_day_perform_tasks_reminder_notification_help'] = '24 hours format eq. 9 for 9am or 15 for 3pm. It is used for recurring Task, Task reminders etc.';
-$lang['clients_nav_contacts']                                 = 'Contacts';
-$lang['clients_my_contacts']                                  = 'Contacts';
-$lang['clients_my_contact']                                   = 'Contact';
-$lang['new_contact']                                          = 'New Contact';
-$lang['customer_contact']                                     = 'My Contacts';
-$lang['clients_contact_added']                                = 'Contact added successfuly';
-$lang['clients_contact_updated']                              = 'Contact updated successfuly';
+$lang['clients_nav_contacts']                                 = 'Contatos';
+$lang['clients_my_contacts']                                  = 'Contatos';
+$lang['clients_my_contact']                                   = 'Contato';
+$lang['new_contact']                                          = 'Novo Contato';
+$lang['customer_contact']                                     = 'Meus Contatos';
+$lang['clients_contact_added']                                = 'Contato adicionado com sucesso';
+$lang['clients_contact_updated']                              = 'Contato atualizado com sucesso';
 $lang['allow_primary_contact_to_manage_other_contacts']       = 'Allow primary contact to manage other customer contacts';
 $lang['contact_form_validation_is_unique']                    = 'Contact with this {field} already exists in our system';
 $lang['invoice_number_not_applied_on_draft']                  = 'If the invoice is saved as draft, the number won\'t be applied, instead, the next invoice number will be given when the invoice is sent to the customer or is marked as sent.';
 
-$lang['two_factor_authentication_disabed']                    = 'Disabled';
+$lang['two_factor_authentication_disabed']                    = 'Desabilitado';
 $lang['enable_google_two_factor_authentication']              = 'Enable Google Authenticator';
 $lang['set_google_two_factor_authentication_failed']          = 'Saving authentication failed, please try again';
 $lang['enter_two_factor_auth_code_from_mobile']               = 'Enter authentication code from the Authenticator app';
